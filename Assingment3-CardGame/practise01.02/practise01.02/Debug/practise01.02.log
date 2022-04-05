@@ -1,0 +1,32 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (practise01.02.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Card.cpp
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(15,53): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(15,39): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(19,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(19,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(23,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(23,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(27,51): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(27,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(60,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(61,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(85,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(86,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(88,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(89,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(91,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(92,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(123,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(124,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(126,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(127,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(129,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\practise01.02\Card.cpp(130,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Deck.cpp
+  InGame.cpp
+  Main.cpp
+  MenuState.cpp
+  PlayState.cpp
+  Zone.cpp
+  Generating Code...
+  practise01.02.vcxproj -> C:\Users\maczo\OneDrive\Desktop\Assigments\year1\Assingment3-witcher\practise01.02\Debug\assignment2.exe
